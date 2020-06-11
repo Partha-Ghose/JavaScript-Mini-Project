@@ -1,0 +1,54 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: brown;
+    padding: 20px;
+}
+.allsection{
+  background-color: blue;
+}
+.header {
+    color: black;
+    background-color: bisque;
+    padding: 15px;
+    font-size: 27px;
+}
+.content {
+    min-height: 400px;
+    background-color: cadetblue;
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+.footer{
+  color: black;
+  background-color: bisque;
+  padding: 15px;
+  font-size: 27px;
+  height: 20px;
+}
+
+.btn {
+    padding: 5px 19px;
+    background-color: #518;
+    color: #ddd;
+    margin-top: 20px;
+}
+.inputsection{
+
+}
+.num{
+    border-radius: 7px;
+    padding: 7px 6px;
+    font-size: 17px;
+    border: 0px;
+    width: 269px;
+    margin-bottom: 10px;
+}
